@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="choose_a_layout">Choose a layout</string>
+    <string name="relative_layout">relative_layout</string>
+</resources>
